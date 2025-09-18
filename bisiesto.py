@@ -1,15 +1,16 @@
 """
-Inserta el encabezado aquí y escribe tu código abajo
+Andrés Enrique Jaime de la Rosa, 763799
 """
 
-# Declaraciones
-CONSTANTE = valor
+
 
 # Entradas
-entrada = input()
+año = int(input("Introduzca un año: "))
 
-# Proceso
+if año % 4 == 0:
+    print(año,"sí es un año bisiesto")
+elif año % 400 == 0:
+    print(año,"sí es un año bisiesto")
+else:
+    print(año,"no es un año bisiesto")
 
-
-# Salidas
-print(salida)
