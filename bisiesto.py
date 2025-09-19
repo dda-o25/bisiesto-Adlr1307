@@ -1,5 +1,7 @@
 """
 Andrés Enrique Jaime de la Rosa, 763799
+18/09/25
+El propósito de este código es definir si un año es bisiesto
 """
 
 
